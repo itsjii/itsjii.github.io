@@ -1,2 +1,2 @@
-# Tic Tac Toe
+# rock paper scissors played in console
  
